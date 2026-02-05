@@ -27,3 +27,9 @@ The user interface is designed to be clean and user-friendly. Instant feedback i
 In conclusion, this Advanced JavaScript Quiz Application is a feature-rich, interactive, and visually appealing project that demonstrates strong understanding of DOM manipulation, event handling, timers, animations, and responsive UI design. It is an excellent example of applying theoretical JavaScript concepts to build a real-world web application.
 
 OUTPUT
+<img width="1440" height="900" alt="Image" src="https://github.com/user-attachments/assets/85cb0c8a-275d-4d7a-bbef-b797436283cf" />
+
+<img width="1440" height="900" alt="Image" src="https://github.com/user-attachments/assets/4b72f897-10e1-448b-ac4f-773635a391e1" />
+
+<img width="1440" height="900" alt="Image" src="https://github.com/user-attachments/assets/48f8be0e-30d0-4552-9b54-f26a74720c24" />
+
